@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="add_name">Add Name</string>
+    <string name="add_txt">Add</string>
+    <string name="first_name_txt">Enter First Name</string>
+    <string name="last_name_txt">Enter Last Name</string>
+
+
+
+    <string-array name="names">
+        <item>Amin, Tayyab</item>
+        <item>Iqbal, Javed</item>
+        <item>Solutions, Mavericks</item>
+        <item>Ahmed, Muhammad</item>
+        <item>Amir, Muhammad</item>
+    </string-array>
+</resources>
